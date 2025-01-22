@@ -3,6 +3,10 @@
   "name": "Drive Unicode Normalizer",
   "version": "1.0",
   "description": "Normalizes filenames between NFD and NFC for Google Drive uploads and downloads",
+  "icons": {
+    "48": "images/icon-48.png",
+    "128": "images/icon-128.png"
+  },
   "permissions": [
     "downloads",
     "downloads.open",
